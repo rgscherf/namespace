@@ -16,12 +16,12 @@
 }
 
 body {
-    background-color: #8C4646;
+    background-color: #CAE7B9;
+    color: #7E7F9A;
     font-family: 'Droid Sans Mono'; 
 }
 
 h1 {
-    color: #F2E394;
     font-size: 40px;
     margin-bottom: 0px;
     margin-top: 0px;
@@ -29,14 +29,13 @@ h1 {
 }
 
 h3 {
-    color: #F2AE72;
     -webkit-margin-before: 0em;
     -webkit-margin-after: 0em;
-    margin-left: 50px;
+    margin-left: 10%;
     margin-bottom: 10px;
 }
 
 a {
-    color: #588C7E;
+    color: #97A7B3;
     text-decoration: none;
 }
